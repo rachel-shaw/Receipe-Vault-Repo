@@ -11,12 +11,14 @@
             "id": "62e77fe44c24133e",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Table of Contents/Breakfast/Avocado Toast, Sliced Tomatoes, Poached Egg.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "chef-hat",
-              "title": "Avocado Toast, Sliced Tomatoes, Poached Egg"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8cfb4066500e6231",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table of Contents/Breakfast/Avocado Toast, Sliced Tomatoes, Poached Egg.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Avocado Toast, Sliced Tomatoes, Poached Egg"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Table of Contents/Breakfast/Avocado Toast, Sliced Tomatoes, Poached Egg.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Avocado Toast, Sliced Tomatoes, Poached Egg"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Table of Contents/Breakfast/Avocado Toast, Sliced Tomatoes, Poached Egg.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Avocado Toast, Sliced Tomatoes, Poached Egg"
+              "title": "Outline of README"
             }
           }
         ]
@@ -171,6 +172,7 @@
   },
   "active": "62e77fe44c24133e",
   "lastOpenFiles": [
+    "Table of Contents/Breakfast/Avocado Toast, Sliced Tomatoes, Poached Egg.md",
     "Table of Contents/Breakfast/Breakfast.md",
     "For Obsidian Snippets Folder/table_border_white.css",
     "For Obsidian Snippets Folder/readingmode_spacing.css",
