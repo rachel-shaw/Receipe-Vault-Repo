@@ -1,6 +1,8 @@
 # Recipe-Vault
  The Recipe Vault, created and displayed in Obsidian, is a well-organized digital collection of hundreds of recipes, designed for seamless viewing on a kitchen monitor. Utilizing Obsidian’s powerful linking, tagging, and visualization capabilities, this system enhances accessibility and efficiency in the kitchen.
 
+![[recipebook.png]]
+
 If you haven't already please download [Obsidian](https://obsidian.md/download). This is a free program that uses markdown files to create notes.
 
 In addition to Obsidian, you will also want to download the following plugins and snippets:
@@ -22,5 +24,13 @@ There are four css files you will want to install in the CSS snippets folder in 
 - Minimal Theme cards.css
 - navigation_buttons.css
 
+![[csssnippetfolderex.png]]
 ## How To Use
-Obsidian is simple enough to use. If you haven't used it before, I suggest you familiarize yourself with this fantastic program (YouTube has some great videos) and the [Recipe View]([obsidian://show-plugin?id=recipe-view](obsidian://show-plugin?id=recipe-view)) plugin. When you are ready and have the plugins and snippets installed, click on the Menu markdown file within Obsidian and select the meal you would like to make. When looking at recipes, use the <b>"toggle recipe view" icon </b> on the left hand side of your screen to format the recipe correctly. 
+Obsidian is simple enough to use. If you haven't used it before, I suggest you familiarize yourself with this fantastic program (YouTube has some great videos) and the [Recipe View]([obsidian://show-plugin?id=recipe-view](obsidian://show-plugin?id=recipe-view)) plugin. When you are ready and have the plugins and snippets installed, click on the Menu markdown file within Obsidian and select the meal you would like to make. 
+
+![[menuex.png]]
+
+
+When selecting recipes, use the <b>"toggle recipe view" icon </b> on the left hand side of your screen to format the recipe correctly. 
+
+![[recipeviewtoggle.png]]

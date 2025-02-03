@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "ecaff703a9acb9a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Menu.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Menu"
+            }
           }
         ]
       }
@@ -172,19 +186,34 @@
   },
   "active": "62e77fe44c24133e",
   "lastOpenFiles": [
+    "Images/menuex.png.sb-864328bd-cBSkKv",
+    "Images/menuex.png.sb-864328bd-GXphxp/menuex.png",
+    "Images/menuex.png.sb-864328bd-GXphxp",
+    "Menu.md",
+    "Images/menuex.png",
+    "Table of Contents/Lunch & Dinner/Baked Teriyaki Chicken.md",
+    "README.md",
+    "Images/recipeviewtoggle.png.sb-864328bd-IgVmHn",
+    "Images/recipeviewtoggle.png.sb-864328bd-xhrvXU/recipeviewtoggle.png",
+    "Images/recipeviewtoggle.png.sb-864328bd-xhrvXU",
+    "Images/recipeviewtoggle.png",
+    "Table of Contents/Lunch & Dinner/Lunch & Dinner.md",
+    "Images/csssnippetfolderex.png.sb-864328bd-ssEcjp",
+    "Images/csssnippetfolderex.png.sb-864328bd-lYINFk/csssnippetfolderex.png",
+    "Images/csssnippetfolderex.png.sb-864328bd-lYINFk",
+    "Images/csssnippetfolderex.png",
+    "Images/recipeexample.png",
+    "Table of Contents/Lunch & Dinner/Banh Mi-Style Turkey Meatball Bowls.md",
+    "Table of Contents/Lunch & Dinner/Arthur Avenue Pork Sausage & Pepper Heros.md",
+    "Table of Contents/Lunch & Dinner/Argentine Chimichurri Steak.md",
+    "Images/recipebook.png",
+    "Images/HealthDashboard.png",
     "Table of Contents/Breakfast/Avocado Toast, Sliced Tomatoes, Poached Egg.md",
     "Table of Contents/Breakfast/Breakfast.md",
     "For Obsidian Snippets Folder/table_border_white.css",
     "For Obsidian Snippets Folder/readingmode_spacing.css",
     "For Obsidian Snippets Folder/properties_hidden.css",
     "For Obsidian Snippets Folder/navigation_buttons.css",
-    "For Obsidian Snippets Folder/imageblocks.css",
-    "For Obsidian Snippets Folder/callouts.css",
-    "For Obsidian Snippets Folder/Minimal Theme cards.css",
-    "For Obsidian Snippets Folder",
-    "snippets (save to Obsidian snippets folder)/table_border_white.css",
-    "snippets (save to Obsidian snippets folder)/readingmode_spacing.css",
-    "Menu.md",
-    "README.md"
+    "For Obsidian Snippets Folder/imageblocks.css"
   ]
 }
