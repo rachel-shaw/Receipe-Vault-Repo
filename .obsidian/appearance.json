@@ -1,3 +1,9 @@
 {
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "callouts",
+    "imageblocks",
+    "Minimal Theme cards",
+    "navigation_buttons"
+  ]
 }
