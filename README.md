@@ -3,8 +3,6 @@
 
 ![](https://github.com/rachel-shaw/Receipe-Vault-Repo/blob/main/Images/recipebook.png)
 
-![[recipebook.png]]
-
 If you haven't already please download [Obsidian](https://obsidian.md/download). This is a free program that uses markdown files to create notes.
 
 In addition to Obsidian, you will also want to download the following plugins and snippets:
@@ -26,13 +24,13 @@ There are four css files you will want to install in the CSS snippets folder in 
 - Minimal Theme cards.css
 - navigation_buttons.css
 
-![[csssnippetfolderex.png]]
+![](https://github.com/rachel-shaw/Receipe-Vault-Repo/blob/main/Images/csssnippetfolderex.png)
 ## How To Use
 Obsidian is simple enough to use. If you haven't used it before, I suggest you familiarize yourself with this fantastic program (YouTube has some great videos) and the [Recipe View]([obsidian://show-plugin?id=recipe-view](obsidian://show-plugin?id=recipe-view)) plugin. When you are ready and have the plugins and snippets installed, click on the Menu markdown file within Obsidian and select the meal you would like to make. 
 
-![[menuex.png]]
+![](https://github.com/rachel-shaw/Receipe-Vault-Repo/blob/main/Images/menuex.png)
 
 
 When selecting recipes, use the <b>"toggle recipe view" icon </b> on the left hand side of your screen to format the recipe correctly. 
 
-![[recipeviewtoggle.png]]
+![](https://github.com/rachel-shaw/Receipe-Vault-Repo/blob/main/Images/recipeviewtoggle.png)
