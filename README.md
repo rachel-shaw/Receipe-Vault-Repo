@@ -1,5 +1,5 @@
-# Recipe-Vault
- The Recipe Vault, created and displayed in Obsidian, is a well-organized digital collection of hundreds of recipes, designed for seamless viewing on a kitchen monitor. Utilizing Obsidian’s powerful linking, tagging, and visualization capabilities, this system enhances accessibility and efficiency in the kitchen.
+# Recipe-Vault-Repo
+ The Recipe Vault, created and displayed in Obsidian, is a well-organized digital collection of hundreds of recipes, designed for relatively seamless viewing on a kitchen monitor. Utilizing Obsidian’s powerful linking, tagging, and visualization capabilities, this system enhances accessibility and efficiency in the kitchen. No more spilling ingredients on your favorite paper recipe! (but please keep the wireless keyboard away from your working area)
 
 ![](https://github.com/rachel-shaw/Receipe-Vault-Repo/blob/main/Images/recipebook.png)
 
@@ -19,6 +19,7 @@ In addition to Obsidian, you will also want to download the following plugins an
 - [Advanced Tables]([obsidian://show-plugin?id=table-editor-obsidian](obsidian://show-plugin?id=table-editor-obsidian))
 - [Style Settings]([obsidian://show-plugin?id=obsidian-style-settings](obsidian://show-plugin?id=obsidian-style-settings))
 - [AnuPpuccin Theme](https://github.com/AnubisNekhet/AnuPpuccin)
+
 
 ## CSS Snippets
 There are four css files you will want to install in the CSS snippets folder in Obsidian. Copies of these files can be found in the folder "For Obsidian Snippets Folder". Be sure to copy and paste these files into the folder in Obsidian found under Settings --> Appearance --> CSS Snippets.
