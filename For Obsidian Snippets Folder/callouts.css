@@ -1,0 +1,53 @@
+/*.callout[data-callout="callout_purple_notepad"] {
+    --callout-color: 195, 118, 245;
+    --callout-icon: lucide-pencil;
+    --callout-content:
+}
+
+.callout-content {
+  color: rgba(218,191,227);
+
+}*/
+
+
+/*.callout[data-callout="fill_in_blank"] {
+--callout-color: 154, 110, 212;
+--callout-radius: 30px;
+--callout-icon: lucide-bed;
+  width: fit-content;
+}*/
+
+.callout:is([data-callout-metadata^="callout_purple_notepad"]) {
+    color: #dabfe3; /*-content font color - needs to be HEX-*/
+    --callout-color: 195, 118, 245; /*-overall callout color - needs to be RGB-*/
+    --callout-icon: lucide-pencil; /*-callout icon-*/
+} 
+
+.callout:is([data-callout-metadata^="callout_blue_notepad"]) {
+    color: #a9c4f5; /*-content font color - needs to be HEX-*/
+    --callout-color: 100, 148, 237; /*-overall callout color - needs to be RGB-*/
+    --callout-icon: lucide-book-check; /*-callout icon-*/
+} 
+
+
+.callout:is([data-callout-metadata^="callout_quote"]) {
+    --callout-color: 242, 228, 150; /*-overall callout color - needs to be RGB-*/
+    --callout-icon: lucide-quote; /*-callout icon-*/
+    text-align: center;
+    font-size: 22px;
+  
+} 
+
+
+
+
+/*increase font size to match size used in headings*/
+.callout-title:has(h1) :after { font-size: 22px; }
+.callout-title:has(h2) :after { font-size: 21px; }
+.callout-title:has(h3) :after { font-size: 19px; }
+.callout-title:has(h4) :after { font-size: 18px; }
+.callout-title:has(h5) :after { font-size: 17px; }
+
+.callout-title {
+    align-items: center;
+}

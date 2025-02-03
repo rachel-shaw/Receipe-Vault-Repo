@@ -1,0 +1,86 @@
+.navigation-buttons button {
+	font-weight: bold !important;
+	width: 49% !important;
+	height: auto; 
+	background-color: darkslateblue;
+	color: white
+	
+}
+
+.course-navigation-buttons-center {
+    text-align: center; 
+} 
+
+.course-navigation-buttons-center button {
+	font-weight: bold !important;
+	width: 49% !important;
+	height: auto; 
+	background-color: darkslategray;
+	color: black
+	
+}
+
+.course-navigation-buttons button {
+	font-weight: bold !important;
+	width: 49% !important;
+	height: auto; 
+	background-color: darkslategray;
+	color: white
+	
+}
+
+.navigation-buttons-center {
+    text-align: center; 
+} 
+
+.navigation-buttons-center button {
+	font-weight: bold !important;
+	width: 49% !important;
+	height: auto; 
+	background-color: darkslateblue;
+	color: white
+	
+}
+
+
+.worksheet-button button {
+	font-weight: bold !important;
+	width: 49% !important;
+	height: auto; 
+	background-color: purple;
+	color: white
+	
+}
+
+
+.worksheet-button-center {
+    text-align: center; 
+} 
+.worksheet-button-center button {
+	font-weight: bold !important;
+	width: 49% !important;
+	height: auto; 
+	background-color: purple;
+	color: white
+	
+}
+
+
+
+.dashboard-buttons button {
+	font-weight: bold !important;
+	width: 49% !important;
+	height: auto; 
+	background-color: lightblue;
+	color: black
+	
+}
+
+.pdf-button button {
+	font-weight: bold !important;
+	width: 49% !important;
+	height: auto; 
+	background-color: mediumvioletred;
+	color: white
+	
+}

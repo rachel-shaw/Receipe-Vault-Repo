@@ -1,0 +1,19 @@
+.markdown-preview-view th, /*header */
+.table-view-table > thead > tr > th,
+.markdown-source-view.mod-cm6 .dataview.table-view-table thead.table-view-thead tr th {
+  padding: var(--size-2-2) var(--size-4-2);
+  border: 1px solid white; /* Add this line */
+}
+
+.markdown-rendered thead tr:first-child > th {
+  font-weight: var(--font-semibold);
+  border: 1px solid white; /* Add this line */
+}
+
+.markdown-preview-view td, /*body cells */
+.table-view-table > tbody > tr > td,
+.markdown-source-view.mod-cm6 .dataview.table-view-table tbody.table-view-tbody tr td {
+  border: 1px solid white; /* Add this line to make cell borders white */
+}
+
+
