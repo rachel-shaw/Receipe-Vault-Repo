@@ -1,6 +1,8 @@
 # Recipe-Vault
  The Recipe Vault, created and displayed in Obsidian, is a well-organized digital collection of hundreds of recipes, designed for seamless viewing on a kitchen monitor. Utilizing Obsidian’s powerful linking, tagging, and visualization capabilities, this system enhances accessibility and efficiency in the kitchen.
 
+![](https://github.com/rachel-shaw/Recipe-Vault-Repo/raw/[main]/recipebook.png?raw=true)
+
 ![[recipebook.png]]
 
 If you haven't already please download [Obsidian](https://obsidian.md/download). This is a free program that uses markdown files to create notes.
