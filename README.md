@@ -7,6 +7,7 @@ If you haven't already please download [Obsidian](https://obsidian.md/download).
 
 In addition to Obsidian, you will also want to download the following plugins and snippets:
 ## Community Plugins Required:
+You will need to download these plugins, but it is easy through obsidian. Click on Settings --> Community plugins --> Browse and search for these. The theme will be found under Settings --> Appearance.
 - [Dataview]([**obsidian://show-plugin?id=dataview**](obsidian://show-plugin?id=dataview))
 	- You will want to go to dataview properties and toggle "Enable JavaScript queries" and "Enable inline JavaScript queries" on.
 
