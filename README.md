@@ -3,9 +3,9 @@
 
 ![](https://github.com/rachel-shaw/Receipe-Vault-Repo/blob/main/Images/recipebook.png)
 
-If you haven't already please download [Obsidian](https://obsidian.md/download). This is a free program that uses markdown files to create notes.
+If you haven't already, you will need to download [Obsidian](https://obsidian.md/download). This is a free program that uses markdown files to create notes. It is available for all common operating systems (Windows, Mac, Linux).
 
-In addition to Obsidian, you will also want to download the following plugins and snippets:
+In addition to Obsidian, you will also need to download the following plugins and snippets:
 ## Community Plugins Required:
 You will need to download these plugins, but it is easy through obsidian. Click on Settings --> Community plugins --> Browse and search for these. The theme will be found under Settings --> Appearance.
 - [Dataview]([**obsidian://show-plugin?id=dataview**](obsidian://show-plugin?id=dataview))
@@ -22,8 +22,14 @@ You will need to download these plugins, but it is easy through obsidian. Click 
 - [AnuPpuccin Theme](https://github.com/AnubisNekhet/AnuPpuccin)
 
 
+## Download Folders from GitHub
+In order to access all of the required files needed for the recipe book to work on your system, you will need to download them from [GitHub](https://github.com/rachel-shaw/Receipe-Vault-Repo). Click on Code --> Download Zip. Extract these files to a folder on your system. 
+
+![](https://github.com/rachel-shaw/Receipe-Vault-Repo/blob/main/Images/downloadgitex.png)
+
+
 ## CSS Snippets
-There are four css files you will want to install in the CSS snippets folder in Obsidian. Copies of these files can be found in the folder "For Obsidian Snippets Folder". Be sure to copy and paste these files into the folder in Obsidian found under Settings --> Appearance --> CSS Snippets.
+There are four css files you will want to install in the CSS snippets folder in Obsidian. Copies of these files can be found in the folder "For Obsidian Snippets Folder" (included in the files you downloaded from GitHub). Be sure to copy and paste these files into the folder in Obsidian found under Settings --> Appearance --> CSS Snippets.
 - callouts.css
 - imageblocks.css
 - Minimal Theme cards.css
