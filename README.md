@@ -1,5 +1,5 @@
 # Recipe-Vault-Repo
- The Recipe Vault, created and displayed in Obsidian, is a well-organized digital collection of hundreds of recipes, designed for relatively seamless viewing on a kitchen monitor. Utilizing Obsidian’s powerful linking, tagging, and visualization capabilities, this system enhances accessibility and efficiency in the kitchen. No more spilling ingredients on your favorite paper recipe! (but please keep the wireless keyboard away from your working area)
+ The Recipe Vault, created and displayed in Obsidian, is a well-organized digital collection of hundreds of recipes, designed for relatively seamless viewing on a kitchen monitor. Utilizing Obsidian’s powerful linking, tagging, and visualization capabilities, this system enhances accessibility and efficiency in the kitchen. No more spilling ingredients on your favorite paper recipe!
 
 ![](https://github.com/rachel-shaw/Receipe-Vault-Repo/blob/main/Images/recipebook.png)
 
