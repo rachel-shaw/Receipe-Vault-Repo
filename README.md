@@ -18,7 +18,7 @@ In addition to Obsidian, you will also want to download the following plugins an
 - [Folder Note]([obsidian://show-plugin?id=folder-note-plugin](obsidian://show-plugin?id=folder-note-plugin))
 - [Advanced Tables]([obsidian://show-plugin?id=table-editor-obsidian](obsidian://show-plugin?id=table-editor-obsidian))
 - [Style Settings]([obsidian://show-plugin?id=obsidian-style-settings](obsidian://show-plugin?id=obsidian-style-settings))
-- [AnuPpuccin Theme]([https://github.com/AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin])
+- [AnuPpuccin Theme](https://github.com/AnubisNekhet/AnuPpuccin)
 
 ## CSS Snippets
 There are four css files you will want to install in the CSS snippets folder in Obsidian. Copies of these files can be found in the folder "For Obsidian Snippets Folder". Be sure to copy and paste these files into the folder in Obsidian found under Settings --> Appearance --> CSS Snippets.
